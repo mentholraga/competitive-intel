@@ -1,0 +1,6068 @@
+{
+  "fields": [
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "Competitive",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "intel",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "checklist",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "Date",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "last",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "reviewed",
+      "type": "string"
+    },
+    {
+      "name": "DD/MM/YYYY",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "Category",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "Activity",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "You",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "Competitor",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "#1",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "Competitor",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "#2",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "Competitor",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "#3",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "Market",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "Who",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "are",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "their",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "target",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "customers?",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "Including",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "segments",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "and",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "verticals.",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "How",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "many",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "customers",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "do",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "they",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "have?",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "Some",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "companies",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "will",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "have",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "this",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "published",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "on",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "their",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "site,",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "others",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "might",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "require",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "a",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "bit",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "of",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "digging.",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "Do",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "they",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "have",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "any",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "big-ticket",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "businesses",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "on",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "their",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "client",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "list?",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "Of",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "these,",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "which",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "are",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "referencable",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "case",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "study",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "clients?",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "They\u2019ll",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "shout",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "about",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "it",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "if",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "they",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "do,",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "so",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "this",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "one",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "should",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "be",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "easy",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "to",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "find",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "out.",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "What",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "countries",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "do",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "they",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "operate",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "in?",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "What",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "do",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "their",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "positive",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "online",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "reviews",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "say?",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "What",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "do",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "their",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "negative",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "online",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "reviews",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "say?",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "What",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "negatives",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "are",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "included",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "in",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "their",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "best",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "reviews?",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "Consider",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "using",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "extracts",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "from",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "some",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "in",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "here,",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "along",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "with",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "their",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "star",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "rating",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "(if",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "applicable).",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "Are",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "there",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "any",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "trends",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "among",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "their",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "online",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "complaints?",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "And",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "how",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "have",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "these",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "trends",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "changed",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "over",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "time?",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "Product",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "What",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "suite",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "of",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "products",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "do",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "you",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "and",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "your",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "competitors",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "offer?",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "What",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "are",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "the",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "defining",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "features",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "of",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "the",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "aforementioned",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "products?",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "What",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "are",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "the",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "value",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "drivers",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "or",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "intended",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "customer",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "outcomes",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "of",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "the",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "aforementioned",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "products?",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "How",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "much",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "do",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "you",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "charge",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "versus",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "how",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "much",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "do",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "your",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "competitors",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "charge?",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "Are",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "they",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "currently",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "running",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "any",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "discounts",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "or",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "promotional",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "offers?",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "And",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "for",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "enterprise",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "sales",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "scenarios,",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "are",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "typical",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "discounts",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "offered?",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "What",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "are",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "their",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "perceived",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "strengths?",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "What",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "are",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "their",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "perceived",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "weaknesses?",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "Do",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "they",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "offer",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "free",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "trials?",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "Or",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "pilots?",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "Do",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "they",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "have",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "any",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "partnerships?",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "If",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "so,",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "who",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "with?",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "Where",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "can",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "customers",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "find",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "help",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "documents",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "and",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "articles?",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "If",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "you",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "have",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "access,",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "what\u2019s",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "their",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "user",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "experience",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "like?",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "Breakdown",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "the",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "pros",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "and",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "cons.",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "Positioning",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "How",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "do",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "they",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "currently",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "differentiate",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "themselves",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "from",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "the",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "rest",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "of",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "the",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "market?",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "What",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "messaging",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "do",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "they",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "use?",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "What",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "use",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "cases",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "do",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "they",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "have",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "listed?",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "If",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "applicable,",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "how",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "does",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "the",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "messaging",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "change",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "between",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "different",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "segments,",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "verticals",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "or",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "use",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "cases?",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "Marketing",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "What\u2019s",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "their",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "tagline?",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "How",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "much",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "activity",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "is",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "there",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "on",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "their",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "marketing",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "channels?",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "Think",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "about",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "things",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "like",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "blogs,",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "social",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "media,",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "webinars,",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "eBooks,",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "emails,",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "podcasts,",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "newsletters,",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "etc.",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "What",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "types",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "of",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "content",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "are",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "in",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "their",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "three",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "most",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "important",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "channels?",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "I.e.",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "thought",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "leadership,",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "practical",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "how-to\u2019s,",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "product-oriented,",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "etc.",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "What",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "kind",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "of",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "marketing",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "approach",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "do",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "they",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "take?",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "Do",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "they",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "target",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "their",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "industry",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "as",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "a",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "whole?",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "Or",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "do",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "they",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "use",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "account-based",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "marketing",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "(ABM)?",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "What",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "kind",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "of",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "topics",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "do",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "they",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "talk",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "about?",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "And",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "what",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "kind",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "of",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "keywords",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "do",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "they",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "bid",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "on?",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "Tip",
+      "type": "string"
+    },
+    {
+      "name": "a",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "spike",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "in",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "previously",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "uncovered",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "topics",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "could",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "be",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "a",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "clue",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "they\u2019re",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "bringing",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "out",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "something",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "new.",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "Do",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "they",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "get",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "much",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "engagement?",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "How",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "effective",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "is",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "their",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "social",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "reach?",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "Split",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "this",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "by",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "channel",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "-",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "i.e.",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "Facebook,",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "Twitter,",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "LinkedIn,",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "Instagram,",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "etc.",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "What",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "are",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "they",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "saying",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "in",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "their",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "press",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "releases,",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "paid",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "campaigns,",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "events,",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "etc?",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "Do",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "they",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "have",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "any",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "partnerships?",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "If",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "so,",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "who",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "with?",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "Do",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "they",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "run",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "events?",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "And/or",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "attend",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "tradeshows?",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "How",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "does",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "their",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "organic",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "ranking",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "compare",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "to",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "yours?",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "How",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "would",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "you",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "describe",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "their",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "website\u2019s",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "visual",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "identity?",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "Have",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "they",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "recently",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "had",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "it",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "redone?",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "Do",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "they",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "have",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "any",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "cool",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "tools,",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "calculators,",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "quizzes,",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "apps,",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "etc.?",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "Do",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "they",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "currently",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "or",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "have",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "they",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "recently",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "ran",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "any",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "competitions",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "or",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "campaigns?",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "Sales/custo",
+      "type": "string"
+    },
+    {
+      "name": "mer",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "success",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "strategy",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "What",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "does",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "their",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "sales",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "process",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "look",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "like?",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "How",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "long",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "does",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "their",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "sales",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "cycle",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "take?",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "Do",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "they",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "provide",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "things",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "like",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "live",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "chatbots?",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "If",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "so,",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "what\u2019s",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "that",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "experience",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "like?",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "Do",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "they",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "have",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "any",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "partnerships?",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "If",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "so,",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "who",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "with?",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "What",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "types",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "of",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "sales",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "assets",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "do",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "they",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "use?",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "You",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "may",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "be",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "able",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "to",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "find",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "some",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "of",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "this",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "online,",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "or",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "if",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "you\u2019ve",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "recently",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "hired",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "someone",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "from",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "a",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "competitor ,",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "pick",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "their",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "brains.",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "What\u2019s",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "their",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "response",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "time",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "like",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "for",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "customer",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "requests/questions?",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "If",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "it\u2019s",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "either",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "really",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "good",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "or",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "really",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "bad",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "this",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "is",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "usually",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "something",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "you",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "can",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "pull",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "out",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "from",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "reviews/complaints",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "How",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "do",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "they",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "escalate",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "customer",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "complaints?",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "Company",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "Have",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "they",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "had",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "any",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "recent",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "acquisitions?",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "Or",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "been",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "acquired",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "themselves?",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "List",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "any",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "that",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "have",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "taken",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "place",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "in",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "the",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "last",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "3-5",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "years.",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "How",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "would",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "you",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "describe",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "their",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "growth",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "trajectory?",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "How",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "many",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "employees",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "do",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "they",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "have?",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "Break",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "these",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "numbers",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "down",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "by",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "major",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "departments.",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "Where",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "are",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "their",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "support",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "teams",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "based?",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "Where",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "are",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "their",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "sales",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "teams",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "based?",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "Which",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "departments,",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "if",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "any,",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "are",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "having",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "a",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "recruitment",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "surge?",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "What",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "words",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "describe",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "their",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "customer-facing",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": "teams?",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    },
+    {
+      "name": " ",
+      "type": "string"
+    }
+  ]
+}
