@@ -1,2 +1,11 @@
-venv/
-*.save
+# Python byte‐code
+__pycache__/
+*.py[cod]
+
+# macOS
+.DS_Store
+
+# Data outputs (we’ll generate these at runtime)
+data/output_*.*
+data/final_*.*
+data/tmp_doc/
