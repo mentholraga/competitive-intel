@@ -62,6 +62,9 @@ def get_checklist(name: str) -> Dict[str, Any]:
     raw = fetch_intel(name)
     cleaned = clean_json_string(raw)
     json_str = extract_json_object(cleaned)
+     # ─── Strip trailing commas before closing braces/brackets ───
+    # e.g. {"a":"x",}  → {"a":"x"}
+    json_str = re.sub(r',\s*([}\]])', r'\1', json_str)
 
     # 🔥 DEBUG LOGGING: print raw vs cleaned vs json_str
     print(f"\n--- RAW from GPT for {name} ---\n{raw}\n")
