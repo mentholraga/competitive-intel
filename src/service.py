@@ -14,6 +14,12 @@ from src.agent import fetch_intel, clean_json_string
 
 app = FastAPI()
 
+from fastapi.staticfiles import StaticFiles
+
+# Serve files in ./data at URL path /static
+app.mount("/static", StaticFiles(directory="data"), name="static")
+
+
 
 # ─── Models ────────────────────────────────────────────────────────────────────
 
@@ -32,24 +38,39 @@ class CompareRequest(BaseModel):
 
 def extract_json_object(s: str) -> str:
     """
-    If the model emitted extra text around the JSON, 
-    pull out the first {...} block for safe parsing.
+    Find the first “{” and last “}” and return that substring.
+    This strips any leading/trailing chatter around the JSON.
     """
-    match = re.search(r"\{.*\}", s, re.DOTALL)
-    return match.group(0) if match else s
-
+    start = s.find("{")
+    end   = s.rfind("}")
+    if start != -1 and end != -1 and end > start:
+        return s[start : end+1]
+    return s
 
 def get_checklist(name: str) -> Dict[str, Any]:
     """
-    Fetch raw string from GPT, clean it, and return the
-    Competitive → intel → checklist dict.
+    Fetch raw string from GPT, clean it, extract the JSON, parse it,
+    and return the Competitive → intel → checklist dict.
     """
     raw = fetch_intel(name)
     cleaned = clean_json_string(raw)
     json_str = extract_json_object(cleaned)
-    parsed = json.loads(json_str)
-    # Navigate into the checklist
-    return parsed["Competitive"]["intel"]["checklist"]
+
+    # 🔥 DEBUG LOGGING: print raw vs cleaned vs json_str
+    print(f"\n--- RAW from GPT for {name} ---\n{raw}\n")
+    print(f"--- CLEANED for {name} ---\n{cleaned}\n")
+    print(f"--- EXTRACTED JSON for {name} ---\n{json_str}\n")
+
+    try:
+        parsed = json.loads(json_str)
+    except Exception as e:
+        # include a bit of context in the error so we can debug
+        raise RuntimeError(f"Failed to parse JSON for {name}: {e}")
+
+    try:
+        return parsed["Competitive"]["intel"]["checklist"]
+    except KeyError:
+        raise RuntimeError(f"Checklist key not found in parsed JSON for {name}")
 
 
 # ─── Endpoints ─────────────────────────────────────────────────────────────────
@@ -64,40 +85,44 @@ async def fetch_intel_endpoint(req: IntelRequest):
     try:
         raw = fetch_intel(req.company)
         cleaned = clean_json_string(raw)
-        parsed = json.loads(extract_json_object(cleaned))
+        extracted = extract_json_object(cleaned)
+        parsed = json.loads(extracted)
     except Exception as e:
         raise HTTPException(status_code=500, detail=str(e))
     return {"data": parsed}
 
 
-@app.post("/export-excel")
-async def export_excel_endpoint(req: CompareRequest = Body(...)):
+@app.post("/compare-url")
+async def compare_url(req: CompareRequest = Body(...)):
     """
-    Expects: { "company1": "NameA", "company2": "NameB" }
-    Returns: an .xlsx file with columns [Field, NameA, NameB].
+    Generates the XLSX, saves it in ./data, and returns JSON with its public URL.
     """
     try:
+        # Generate the file exactly as /export-excel does
         chk1 = get_checklist(req.company1)
         chk2 = get_checklist(req.company2)
 
-        # Build row list
         rows = []
         for field, val1 in chk1.items():
-            val2 = chk2.get(field, "")
             rows.append({
                 "Field": field,
                 req.company1: val1,
-                req.company2: val2,
+                req.company2: chk2.get(field, ""),
             })
 
-        # Write to Excel
         df = pd.DataFrame(rows)
         os.makedirs("data", exist_ok=True)
-        out_path = f"data/compare_{req.company1}_vs_{req.company2}.xlsx"
+        fname = f"compare_{req.company1}_vs_{req.company2}.xlsx"
+        out_path = os.path.join("data", fname)
         df.to_excel(out_path, index=False)
+
+        # Build the public URL (note: match your Render domain)
+        public_url = f"https://competitive-intel.onrender.com/static/{fname}"
+        return {"url": public_url}
 
     except Exception as e:
         raise HTTPException(status_code=500, detail=str(e))
+
 
     return FileResponse(
         out_path,
