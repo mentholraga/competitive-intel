@@ -37,10 +37,6 @@ class CompareRequest(BaseModel):
 # ─── Helpers ───────────────────────────────────────────────────────────────────
 
 def extract_json_object(s: str) -> str:
-    """
-    Grab the JSON from the first “{” through the matching “}” by tracking brace depth,
-    dropping any extra text before/after.
-    """
     start = s.find("{")
     if start == -1:
         return s
@@ -52,19 +48,44 @@ def extract_json_object(s: str) -> str:
             depth -= 1
             if depth == 0:
                 return s[start : i+1]
-    return s  # fallback if braces never close
+    return s
 
 def get_checklist(name: str) -> Dict[str, Any]:
-    """
-    Fetch raw string from GPT, clean it, extract the JSON, parse it,
-    and return the Competitive → intel → checklist dict.
-    """
     raw = fetch_intel(name)
     cleaned = clean_json_string(raw)
     json_str = extract_json_object(cleaned)
-     # ─── Strip trailing commas before closing braces/brackets ───
-    # e.g. {"a":"x",}  → {"a":"x"}
+
+    # ─── Fix broken two‐key patterns: "last": "reviewed": "01/10/2023"
+    json_str = re.sub(
+        r'"([^"]+)":\s*"([^"]+)":\s*"([^"]+)"',
+        r'"\1 \2": "\3"',
+        json_str
+    )
+    # ─── Strip trailing commas
     json_str = re.sub(r',\s*([}\]])', r'\1', json_str)
+
+    # DEBUG logs
+    print(f"\n--- RAW from GPT for {name} ---\n{raw}\n")
+    print(f"--- CLEANED for {name} ---\n{cleaned}\n")
+    print(f"--- EXTRACTED JSON for {name} ---\n{json_str}\n")
+
+    try:
+        parsed = json.loads(json_str)
+    except Exception as e:
+        raise RuntimeError(f"Failed to parse JSON for {name}: {e}")
+
+    # ─── Support both JSON shapes ───
+    if isinstance(parsed.get("Competitive"), dict):
+        intel_section = parsed["Competitive"]["intel"]
+    elif isinstance(parsed.get("intel"), dict):
+        intel_section = parsed["intel"]
+    else:
+        raise RuntimeError(f"Cannot find intel section in parsed JSON for {name}")
+
+    checklist = intel_section.get("checklist", {})
+    if not isinstance(checklist, dict):
+        raise RuntimeError(f"Checklist for {name} is not an object")
+    return checklist
 
     # 🔥 DEBUG LOGGING: print raw vs cleaned vs json_str
     print(f"\n--- RAW from GPT for {name} ---\n{raw}\n")
