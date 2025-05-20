@@ -1,11 +1,15 @@
-# Python byte‐code
+# Byte‐compiled / cache
 __pycache__/
 *.py[cod]
 
-# macOS
+# Virtual environment
+venv/
+
+# MacOS
 .DS_Store
 
-# Data outputs (we’ll generate these at runtime)
-data/output_*.*
-data/final_*.*
-data/tmp_doc/
+# Generated outputs
+compare.xlsx
+compare_*.xlsx
+headers.txt
+data/*.pdf

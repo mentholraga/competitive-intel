@@ -38,14 +38,21 @@ class CompareRequest(BaseModel):
 
 def extract_json_object(s: str) -> str:
     """
-    Find the first “{” and last “}” and return that substring.
-    This strips any leading/trailing chatter around the JSON.
+    Grab the JSON from the first “{” through the matching “}” by tracking brace depth,
+    dropping any extra text before/after.
     """
     start = s.find("{")
-    end   = s.rfind("}")
-    if start != -1 and end != -1 and end > start:
-        return s[start : end+1]
-    return s
+    if start == -1:
+        return s
+    depth = 0
+    for i, ch in enumerate(s[start:], start):
+        if ch == "{":
+            depth += 1
+        elif ch == "}":
+            depth -= 1
+            if depth == 0:
+                return s[start : i+1]
+    return s  # fallback if braces never close
 
 def get_checklist(name: str) -> Dict[str, Any]:
     """
@@ -94,21 +101,21 @@ async def fetch_intel_endpoint(req: IntelRequest):
 
 @app.post("/compare-url")
 async def compare_url(req: CompareRequest = Body(...)):
-    """
-    Generates the XLSX, saves it in ./data, and returns JSON with its public URL.
-    """
     try:
-        # Generate the file exactly as /export-excel does
         chk1 = get_checklist(req.company1)
         chk2 = get_checklist(req.company2)
 
+        # 🔥 DEBUG: log types & sample
+        print(f"--- compare-url DEBUG for {req.company1} → type {type(chk1)}")
+        print(chk1)
+        print(f"--- compare-url DEBUG for {req.company2} → type {type(chk2)}")
+        print(chk2)
+
         rows = []
-        for field, val1 in chk1.items():
-            rows.append({
-                "Field": field,
-                req.company1: val1,
-                req.company2: chk2.get(field, ""),
-            })
+        for field, val1 in chk1.items():  # ← error is happening here
+            val2 = chk2.get(field, "")
+            rows.append({ "Field": field, req.company1: val1, req.company2: val2 })
+
 
         df = pd.DataFrame(rows)
         os.makedirs("data", exist_ok=True)
