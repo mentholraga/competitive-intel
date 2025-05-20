@@ -169,4 +169,11 @@ async def compare_url(req: CompareRequest = Body(...)):
         return {"url": f"https://competitive-intel.onrender.com/static/{fname}"}
 
     except Exception as e:
-        raise HTTPException(status_code=500, detail=str(e))
+        # Print the full Python traceback to stdout
+        print("🔥 compare-url error:", e)
+        traceback.print_exc()
+        # Return a 500 with the original error message
+        raise HTTPException(
+            status_code=status.HTTP_500_INTERNAL_SERVER_ERROR,
+            detail=str(e)
+        )
